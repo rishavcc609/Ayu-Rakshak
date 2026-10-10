@@ -1,0 +1,20 @@
+AYU RAKSHAK — WINDOWS PORTABLE DEMO
+
+1. Extract the ZIP file.
+2. Open the extracted AYU-RAKSHAK-Portable folder.
+3. Double-click Start AYU RAKSHAK.bat.
+4. The login page will open automatically in your default browser.
+
+Admin login
+Email: admin@demo.ayurakshak.in
+Password: Demo@123
+
+Requirements
+- Windows 10 or Windows 11
+- Python 3 installed and available as the "python" command
+- Ports 4174 and 8000 must be available
+
+This package runs locally on your computer. Keep the two minimized server
+windows running while using the website. Closing them stops the application.
+
+Demo environment — do not use real patient data.
